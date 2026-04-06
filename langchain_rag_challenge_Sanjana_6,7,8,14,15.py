@@ -5,7 +5,7 @@ load_dotenv()
 
 openai_api_key = os.getenv("OPENAI_API_KEY")
 
-
+ 
 
 # ─────────────────────────────────────────────────────────────
 # TASK 6 — Cosine Similarity (from scratch, then with numpy)
